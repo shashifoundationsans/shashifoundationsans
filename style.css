@@ -182,7 +182,7 @@ h1, h2, h3, h4, h5, h6 {
 .hero .container { position: relative; z-index: 1; }
 
 .hero-title {
-  font-size: 3.5rem;
+  font-size: 3.0rem;
   font-weight: 900;
   line-height: 1.2;
   margin-bottom: 1.5rem;
